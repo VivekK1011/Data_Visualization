@@ -1,4 +1,4 @@
-# Task 3 — Data Visualization Portfolio Project
+# Data Visualization Portfolio Project
 
 A beginner-friendly sales analytics project using **Python, Pandas, Matplotlib, Seaborn and Streamlit**.
 
