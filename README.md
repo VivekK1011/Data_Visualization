@@ -11,9 +11,9 @@ A beginner-friendly sales analytics project using **Python, Pandas, Matplotlib, 
 - Automatically generated key takeaways
 
 ## 1. Open the project in VS Code
-1. Extract `Task_3_Data_Visualization.zip`.
+1. Extract `Data_Visualization.zip`.
 2. Open VS Code.
-3. Select **File → Open Folder** and choose the extracted `Task_3_Data_Visualization` folder.
+3. Select **File → Open Folder** and choose the extracted `Data_Visualization` folder.
 4. Open **Terminal → New Terminal**.
 
 ## 2. Create a virtual environment (recommended)
